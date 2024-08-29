@@ -153,11 +153,11 @@ Vodafone aimed to simplify and enhance the self-service experience for customers
 
 **Approach:**  
 We conducted a comprehensive redesign of the eCare platform, focusing on clarity, visibility, and personalization:
-- **Clarity in Billing: ** Displayed upcoming bills with clear breakdowns of usage, making it easy for customers to understand charges.
-- **Enhanced Visibility: ** Emphasized future bill dates and charges within the interface.
-- **Personalized Service Selection: ** Introduced friendly service names to enhance customer experience.
+- **Clarity in Billing:** Displayed upcoming bills with clear breakdowns of usage, making it easy for customers to understand charges.
+- **Enhanced Visibility:** Emphasized future bill dates and charges within the interface.
+- **Personalized Service Selection:** Introduced friendly service names to enhance customer experience.
 
-**Implementation: **  
+**Implementation:**  
 The eCare Reinvent platform featured customizable dashboards, consistent UX design, mobile-first responsiveness, and nudge tactics to guide users. A culture of experimentation was fostered to drive continuous improvement.
 
 **Outcomes:**  
