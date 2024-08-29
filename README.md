@@ -3,18 +3,24 @@ Senior Product Designer
 
 ---
 
-**Senior UX designer with a passion for user-centred, service design- focused UX. Strong hands-on problem-solving skills utilising SAAS applications and Figma design systems. Experienced in collaborating with stakeholders and delivering feature-rich experiences. Expert in design methodology and integrating continuous UX research with an iterative design approach.**
+I am a Senior UX designer with a passion for user-centered, service design-focused UX. I have strong hands-on problem-solving skills allowing an end to end design delivery from ideation to implementation within relevant Figma design systems. Extensive experience in collaborating with stakeholders, I deliver feature-rich experiences that prioritise user needs. My expertise includes design methodology and integrating continuous UX research with an iterative design approach.
 
-Frameworks: User-centred design, Service design, Mobile design, UX, Prototyping, Design thinking methodology, Agile, Design systems integration using Figma.
-Software: Figma, Dovetail, Optimal Workshop, Userzoom (User testing), Medallia (Decibel)
-Accreditation: xx
+**Frameworks:**  
+User-centered design, Service design, Mobile design, UX, Prototyping, Design thinking methodology, Agile, Design systems integration using Figma.
 
-### Skills
-- Service Design: Journey Mapping, Blueprint Creation, Roadmapping, Design Thinking
-- Research & Analysis: User Research, Qualitative & Quantitative Analysis, Insight Synthesis
-- Facilitation: Workshop Planning, Co-creation Sessions, Stakeholder Engagement
-- Agile Methodologies: Scrum, Kanban, Cross-functional Team Collaboration
-- Tools: Figma, Miro, Adobe XD, Sketch, InVision, ServiceNow
+**Software:**  
+Figma, Dovetail, Optimal Workshop, Userzoom (User testing), Medallia (Decibel)
+
+**Accreditation:**  
+xx
+
+## Skills
+
+- **Service Design:** Journey Mapping, Blueprint Creation, Roadmapping, Design Thinking  
+- **Research & Analysis:** User Research, Qualitative & Quantitative Analysis, Insight Synthesis  
+- **Facilitation:** Workshop Planning, Co-creation Sessions, Stakeholder Engagement  
+- **Agile Methodologies:** Scrum, Kanban, Cross-functional Team Collaboration  
+- **Tools:** Figma, Miro, Adobe XD, Sketch, InVision, ServiceNow
 
 ### Experience
 
