@@ -31,9 +31,6 @@ xx
 - **Agile and Scrum Methodologies**
   - [Agile Overview](https://www.agilealliance.org/agile101/)
   - [Scrum Guide](https://scrumguides.org/)
-- **Design Thinking**
-  - [Design Thinking Overview](https://www.designcouncil.org.uk/what-is-design-thinking/)
-
 
 - **Service Design:** Journey Mapping, Blueprint Creation, Roadmapping, Design Thinking  
 - **Research & Analysis:** User Research, Qualitative & Quantitative Analysis, Insight Synthesis  
