@@ -222,18 +222,18 @@ We focused on building trust, effective storytelling, and understanding the diff
 - **Wireframing and Prototyping:** Designed wireframes and prototypes, iterating based on user feedback.
 - **Usability Testing:** Conducted multiple rounds of testing to refine navigation, content, and overall experience.
 
-**Design Solutions:**  
+** Design Solutions: **  
 - **Trust-Building Content:** Developed transparent content about nutritional benefits with detailed ingredient lists.
 - **Storytelling and Testimonials:** Integrated real stories from mothers to build credibility.
 - **Stage-Specific Navigation:** Tailored navigation to align with different stages of motherhood.
 - **User-Friendly Interface:** Designed an intuitive interface for easy access to key information.
 
-**Implementation:**  
+** Implementation: **  
 Collaborated with nutritionists and content strategists to develop engaging content, and worked closely with the development team to ensure functionality and aesthetics met user needs.
 
-**Results:**  
+** Results:**  
 The app saw a 35% increase in user engagement and a boost in user satisfaction, with many mothers appreciating the tailored navigation and trust-building content.
 
-**Conclusion:**  
+** Conclusion: **  
 The Nutrimum project successfully addressed the needs of pregnant and breastfeeding mothers by providing a tailored experience that supported them throughout their journey. This case study highlights the importance of understanding user needs and delivering a user-centered solution.
 
