@@ -1,6 +1,4 @@
-# Portfolio Sam Ayres
-
-Sam Ayres
+#Sam Ayres
 Senior UX/UI Designer
 
 <h5>Senior UX designer with a passion for user-centred, service design- focused UX. Strong hands-on problem-solving skills utilising SAAS applications and Figma design systems.
