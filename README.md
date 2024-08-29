@@ -1,4 +1,4 @@
-# samayresdesign.github.io
+# Portfolio Sam Ayres
 
 Sam Ayres
 Senior UX/UI Designer
