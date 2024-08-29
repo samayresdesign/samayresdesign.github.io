@@ -16,23 +16,24 @@ xx
 
 ## Skills
 
+- **UK Government Service Standard**
+  - [UK Government Service Standard](https://www.gov.uk/service-manual/service-standard)
 - **Web Content Accessibility Guidelines (WCAG) 2.1 AA**
   - [WCAG 2.1 Guidelines](https://www.w3.org/TR/WCAG21/)
-- **Section 508 of the Rehabilitation Act**
-  - [Section 508 Standards](https://www.section508.gov/)
-- **US Web Design System (USWDS)**
-  - [USWDS](https://designsystem.digital.gov/)
-- **Digital.gov Guidelines**
-  - [Digital.gov Guidelines](https://digital.gov/)
-- **Design Thinking**
-  - [Design Thinking Overview](https://www.ideou.com/pages/design-thinking)
+- **Accessibility Regulations (Public Sector Bodies) (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018**
+  - [UK Accessibility Regulations](https://www.legislation.gov.uk/uksi/2018/952/contents/made)
+- **UK Government Design System**
+  - [UK Government Design System](https://design-system.service.gov.uk/)
+- **Digital Service Standard**
+  - [Digital Service Standard](https://www.gov.uk/service-manual/service-standard)
+- **GDS Service Manual**
+  - [GDS Service Manual](https://www.gov.uk/service-manual)
 - **Agile and Scrum Methodologies**
   - [Agile Overview](https://www.agilealliance.org/agile101/)
   - [Scrum Guide](https://scrumguides.org/)
-- **Service Blueprinting**
-  - [Service Blueprinting Guide](https://www.nngroup.com/articles/service-blueprints/)
-- **Journey Mapping**
-  - [Journey Mapping Overview](https://www.nngroup.com/articles/journey-mapping/)
+- **Design Thinking**
+  - [Design Thinking Overview](https://www.designcouncil.org.uk/what-is-design-thinking/)
+
 
 - **Service Design:** Journey Mapping, Blueprint Creation, Roadmapping, Design Thinking  
 - **Research & Analysis:** User Research, Qualitative & Quantitative Analysis, Insight Synthesis  
