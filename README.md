@@ -16,6 +16,24 @@ xx
 
 ## Skills
 
+- **Web Content Accessibility Guidelines (WCAG) 2.1 AA**
+  - [WCAG 2.1 Guidelines](https://www.w3.org/TR/WCAG21/)
+- **Section 508 of the Rehabilitation Act**
+  - [Section 508 Standards](https://www.section508.gov/)
+- **US Web Design System (USWDS)**
+  - [USWDS](https://designsystem.digital.gov/)
+- **Digital.gov Guidelines**
+  - [Digital.gov Guidelines](https://digital.gov/)
+- **Design Thinking**
+  - [Design Thinking Overview](https://www.ideou.com/pages/design-thinking)
+- **Agile and Scrum Methodologies**
+  - [Agile Overview](https://www.agilealliance.org/agile101/)
+  - [Scrum Guide](https://scrumguides.org/)
+- **Service Blueprinting**
+  - [Service Blueprinting Guide](https://www.nngroup.com/articles/service-blueprints/)
+- **Journey Mapping**
+  - [Journey Mapping Overview](https://www.nngroup.com/articles/journey-mapping/)
+
 - **Service Design:** Journey Mapping, Blueprint Creation, Roadmapping, Design Thinking  
 - **Research & Analysis:** User Research, Qualitative & Quantitative Analysis, Insight Synthesis  
 - **Facilitation:** Workshop Planning, Co-creation Sessions, Stakeholder Engagement  
