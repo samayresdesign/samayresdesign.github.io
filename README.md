@@ -193,9 +193,9 @@ Our goal was to understand user pain points and gather insights for the redesign
 - Conducted multiple rounds of usability testing to refine the design.
 
 **Design Solutions:**  
-- **Simplified Navigation: ** Redesigned for easier access to plan details and subscriptions.
-- **Enhanced Plan Visualization: ** Introduced a visual model for better understanding of plans and usage.
-- **Spending Management Tools: ** Added features to track spending and manage costs effectively.
+- **Simplified Navigation:** Redesigned for easier access to plan details and subscriptions.
+- **Enhanced Plan Visualization:** Introduced a visual model for better understanding of plans and usage.
+- **Spending Management Tools:** Added features to track spending and manage costs effectively.
 
 **Implementation:**  
 Worked closely with the development team to ensure accurate and efficient implementation, followed by rigorous testing before launch.
