@@ -49,7 +49,7 @@ Google UX Design, Google AI Essentials, UX Diploma Design Institute, Marketing R
 - Worked closely with Agile scrum teams, including Designers, Product Owners, Developers, Business Analysts, and Researchers, to ensure seamless integration of service design into the product development lifecycle. 
 
 Email: mr.samayres@gmail.com  
-Telephone: Telephone  
+Telephone: +44 (0)7468452865  
 Website: www.samayres.uk  
 LinkedIn: www.linkedIn.com/in/samayres  
 
