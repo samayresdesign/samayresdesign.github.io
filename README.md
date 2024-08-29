@@ -1,5 +1,5 @@
 # Sam Ayres
-Senior UX/UI Designer
+Senior Product Designer
 
 **Senior UX designer with a passion for user-centred, service design- focused UX. Strong hands-on problem-solving skills utilising SAAS applications and Figma design systems. Experienced in collaborating with stakeholders and delivering feature-rich experiences. Expert in design methodology and integrating continuous UX research with an iterative design approach.**
 
