@@ -7,10 +7,35 @@ Frameworks: User-centred design, Service design, Mobile design, UX, Prototyping,
 Software: Figma, Dovetail, Optimal Workshop, Userzoom (User testing), Medallia (Decibel)
 Accreditation: xx
 
-Email: mr.samayres@gmail.com
-> Telephone: Telephone
-> Website: www.samayres.uk
-> LinkedIn: www.linkedIn.com/in/samayres
+### Skills
+- Service Design: Journey Mapping, Blueprint Creation, Roadmapping, Design Thinking
+- Research & Analysis: User Research, Qualitative & Quantitative Analysis, Insight Synthesis
+- Facilitation: Workshop Planning, Co-creation Sessions, Stakeholder Engagement
+- Agile Methodologies: Scrum, Kanban, Cross-functional Team Collaboration
+- Tools: Figma, Miro, Adobe XD, Sketch, InVision, ServiceNow
+
+### Experience
+
+- Designed and developed concept journeys, blueprints, and roadmaps to enhance user experiences across digital and physical touchpoints.
+- Facilitated workshops and co-creation sessions with stakeholders to align on service design goals and deliverables, ensuring a unified understanding of the end-to-end experience.
+- Mapped orchestration of events at the intersection of technology, business, and design to provide a holistic view of the user journey and identify opportunities for improvement.
+- Collaborated with user researchers to gather insights from users, staff, and stakeholders, shaping a comprehensive view of the total user experience.
+- Analyzed research findings to strategically frame, validate, and quantify problems, providing actionable recommendations to guide the wider strategic roadmap.
+- Embedded design practices within the organization to promote a user-centered approach, creating sustainable solutions that meet user needs and business objectives.
+- Worked closely with Agile scrum teams, including Designers, Product Owners, Developers, Business Analysts, and Researchers, to ensure seamless integration of service design into the product development lifecycle.
+
+### Required Technical Expertise
+
+Experience of planning, scoping, conducting analysis and communicating Service Design throughout the Agile product development lifecycle.  
+Experience of planning and facilitating workshops to reach a specific outcome.  
+Experience of working within an Agile scrum team (working across Designers, Product Owners, Developers, Business Analysts and other Researchers).  
+Ability to convert a single or a group of research findings into specific prioritised recommendations.  
+Ability to use tooling that supports the creation of service design artefacts.  
+
+Email: mr.samayres@gmail.com  
+Telephone: Telephone  
+Website: www.samayres.uk  
+LinkedIn: www.linkedIn.com/in/samayres  
 
 # Work experience
 ## Cyber-duck, CACI (November 2023 - present)
