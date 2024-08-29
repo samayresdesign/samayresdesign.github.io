@@ -1,21 +1,19 @@
 # samayresdesign.github.io
 
 Sam Ayres
-
 Senior UX/UI Designer
-Senior UX designer with a passion for user-centred, service design- focused UX. Strong hands-on problem-solving skills utilising SAAS applications and Figma design systems.
-Experienced in collaborating with stakeholders and delivering feature-rich experiences. Expert in design methodology and integrating continuous UX research with an iterative design approach.
 
+<h5>Senior UX designer with a passion for user-centred, service design- focused UX. Strong hands-on problem-solving skills utilising SAAS applications and Figma design systems.
+
+Experienced in collaborating with stakeholders and delivering feature-rich experiences. Expert in design methodology and integrating continuous UX research with an iterative design approach.</h5>
 
 User-centred design, Service design, Mobile design, UX, Prototyping, Design thinking methodology, Agile, Design systems integration using Figma.
 
-
 Figma, Dovetail, Optimal Workshop, Userzoom (User testing), Medallia (Decibel)
 
-mr.sEamaiyl
-res@gmail.com
- +44M0o7b4i6le
-8452865
+mr.samayres@gmail.com
+Telephone
+
 
 w Ww we b . s s a i t me
  a y r e s . u k
