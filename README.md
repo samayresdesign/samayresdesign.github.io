@@ -173,65 +173,65 @@ By focusing on user needs and leveraging technology, we have redefined the self-
 
 ## Vodafone eCare Mobile App: Enhancing User Experience
 
-** Background: **  
+**Background:**  
 Before the eCare redesign, Vodafone launched the MVA10 project to restructure its mobile app, aiming to simplify access to essential information and improve overall user satisfaction.
 
-** Research Objectives and Methods: **  
+**Research Objectives and Methods:**  
 Our goal was to understand user pain points and gather insights for the redesign. We conducted:
 - Surveys with over 1,000 users for quantitative data.
 - In-depth interviews with 50 users for qualitative insights.
 - Usability tests on the existing app to observe real-time user interactions.
 
-** Key Findings: **  
-- ** Complex Navigation: ** Users found the navigation cumbersome.
-- ** Spending Management: ** Users struggled with managing mobile costs.
-- ** Plan Visualization: ** Users needed better visualization of their plans and subscriptions.
+**Key Findings:**  
+- ** Complex Navigation:** Users found the navigation cumbersome.
+- ** Spending Management:** Users struggled with managing mobile costs.
+- ** Plan Visualization:** Users needed better visualization of their plans and subscriptions.
 
-** Design Process: **  
+**Design Process:**  
 - Developed detailed user personas and service blueprints.
 - Created wireframes and interactive prototypes, iterating based on user feedback.
 - Conducted multiple rounds of usability testing to refine the design.
 
-** Design Solutions: **  
+**Design Solutions:**  
 - ** Simplified Navigation: ** Redesigned for easier access to plan details and subscriptions.
 - ** Enhanced Plan Visualization: ** Introduced a visual model for better understanding of plans and usage.
 - ** Spending Management Tools: ** Added features to track spending and manage costs effectively.
 
-** Implementation: **  
+**Implementation:**  
 Worked closely with the development team to ensure accurate and efficient implementation, followed by rigorous testing before launch.
 
-** Results: **  
+**Results:**  
 Post-launch, user engagement increased by 25%, and customer support calls related to navigation and spending issues decreased by 30%. Users reported improved satisfaction and better control over mobile costs.
 
-** Conclusion: **  
+**Conclusion:**  
 The MVA10 project successfully addressed user pain points, delivering a more intuitive and user-friendly app. This case study demonstrates the importance of user-centered design in achieving significant improvements in user engagement and satisfaction.
 
 ---
 
 ## Nutrimum: Supporting Mothers with Nutrient-Rich Cereal Bars
 
-** Background: **  
+**Background:**  
 Nutrimum aimed to position its cereal bars as a convenient alternative to traditional supplements for pregnant and breastfeeding mothers. Our goal was to make it easier for women to fortify their diets during these crucial stages of motherhood.
 
-** Design Process: **  
+**Design Process:**  
 We focused on building trust, effective storytelling, and understanding the different stages of motherhood:
-- ** Persona Development:** Created personas representing pregnant and breastfeeding mothers, highlighting their goals and pain points.
-- ** Journey Mapping:** Mapped the emotional and physical journey of mothers to identify opportunities for targeted support.
-- ** Wireframing and Prototyping:** Designed wireframes and prototypes, iterating based on user feedback.
-- ** Usability Testing:** Conducted multiple rounds of testing to refine navigation, content, and overall experience.
+- **Persona Development:** Created personas representing pregnant and breastfeeding mothers, highlighting their goals and pain points.
+- **Journey Mapping:** Mapped the emotional and physical journey of mothers to identify opportunities for targeted support.
+- **Wireframing and Prototyping:** Designed wireframes and prototypes, iterating based on user feedback.
+- **Usability Testing:** Conducted multiple rounds of testing to refine navigation, content, and overall experience.
 
-** Design Solutions: **  
-- ** Trust-Building Content:** Developed transparent content about nutritional benefits with detailed ingredient lists.
-- ** Storytelling and Testimonials:** Integrated real stories from mothers to build credibility.
-- ** Stage-Specific Navigation:** Tailored navigation to align with different stages of motherhood.
-- ** User-Friendly Interface:** Designed an intuitive interface for easy access to key information.
+**Design Solutions:**  
+- **Trust-Building Content:** Developed transparent content about nutritional benefits with detailed ingredient lists.
+- **Storytelling and Testimonials:** Integrated real stories from mothers to build credibility.
+- **Stage-Specific Navigation:** Tailored navigation to align with different stages of motherhood.
+- **User-Friendly Interface:** Designed an intuitive interface for easy access to key information.
 
-** Implementation: **  
+**Implementation:**  
 Collaborated with nutritionists and content strategists to develop engaging content, and worked closely with the development team to ensure functionality and aesthetics met user needs.
 
-** Results: **  
+**Results:**  
 The app saw a 35% increase in user engagement and a boost in user satisfaction, with many mothers appreciating the tailored navigation and trust-building content.
 
-** Conclusion: **  
+**Conclusion:**  
 The Nutrimum project successfully addressed the needs of pregnant and breastfeeding mothers by providing a tailored experience that supported them throughout their journey. This case study highlights the importance of understanding user needs and delivering a user-centered solution.
 
