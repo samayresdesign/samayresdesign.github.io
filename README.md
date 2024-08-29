@@ -12,7 +12,7 @@ User-centered design, Service design, Mobile design, UX, Prototyping, Design thi
 Figma, Dovetail, Optimal Workshop, Userzoom (User testing), Medallia (Decibel)
 
 **Accreditation:**  
-xx
+Google UX Design, Google AI Essentials, UX Diploma Design Institute, Marketing Research Society membership, Service Design Network membership
 
 ## Skills
 
