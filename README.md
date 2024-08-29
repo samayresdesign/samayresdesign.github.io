@@ -1,6 +1,8 @@
 ### Sam Ayres
 Senior Product Designer
 
+---
+
 **Senior UX designer with a passion for user-centred, service design- focused UX. Strong hands-on problem-solving skills utilising SAAS applications and Figma design systems. Experienced in collaborating with stakeholders and delivering feature-rich experiences. Expert in design methodology and integrating continuous UX research with an iterative design approach.**
 
 Frameworks: User-centred design, Service design, Mobile design, UX, Prototyping, Design thinking methodology, Agile, Design systems integration using Figma.
@@ -29,7 +31,10 @@ Telephone: Telephone
 Website: www.samayres.uk  
 LinkedIn: www.linkedIn.com/in/samayres  
 
+---
+
 # Work experience
+
 ### Cyber-duck, CACI (November 2023 - present)
 Worcester Bosch, Dexcom and ScotlandsPeople discovery and delivery. Working
 with UI to establish design systems and user research.
@@ -82,6 +87,8 @@ experience
 ### Tangerine Product Designers, User Experience and Interaction Design (2005)
 Worked on LG
 
+---
+
 # Education
 
 ### MFA Fine Art
@@ -92,6 +99,8 @@ Central St.Martins College of Art & Design UAL, 1992 - 1995
 
 ### Foundation
 Cheltenham and Gloucester College of Art & Design, 1991
+
+---
 
 # UX Case Studies
 
