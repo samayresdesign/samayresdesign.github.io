@@ -3,7 +3,7 @@ Senior Product Designer
 
 ---
 
-I am a **Senior UX Designer** with a passion for creating user-centered, service design-focused experiences. With strong hands-on problem-solving skills, I excel in end-to-end design delivery, from ideation to implementation, utilising Figma design systems. I have extensive experience collaborating with stakeholders to deliver feature-rich solutions that prioritise user needs. My expertise includes comprehensive design methodologies and integrating continuous UX research into an iterative design approach.
+I am a **Senior UX Designer** with a passion for creating user-centred, service design-focused experiences. With strong hands-on problem-solving skills, I excel in end-to-end design delivery, from ideation to implementation, utilising Figma design systems. I have extensive experience collaborating with stakeholders to deliver feature-rich solutions that prioritise user needs. My expertise includes comprehensive design methodologies and integrating continuous UX research into an iterative design approach.
 
 **Frameworks:**  
 User-centered design, Service design, Mobile design, UX, Prototyping, Design thinking methodology, Agile, Design systems integration using Figma.
