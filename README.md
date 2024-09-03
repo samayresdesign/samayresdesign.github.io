@@ -44,7 +44,7 @@ Google UX Design, Google AI Essentials, UX Diploma Design Institute, Marketing R
 - Facilitated workshops and co-creation sessions with stakeholders to align on service design goals and deliverables, ensuring a unified understanding of the end-to-end experience.
 - Mapped orchestration of events at the intersection of technology, business, and design to provide a holistic view of the user journey and identify opportunities for improvement.
 - Collaborated with user researchers to gather insights from users, staff, and stakeholders, shaping a comprehensive view of the total user experience.
-- Analyzed research findings to strategically frame, validate, and quantify problems, providing actionable recommendations to guide the wider strategic roadmap.
+- Analysed research findings to strategically frame, validate, and quantify problems, providing actionable recommendations to guide the wider strategic roadmap.
 - Embedded design practices within the organization to promote a user-centered approach, creating sustainable solutions that meet user needs and business objectives.
 - Worked closely with Agile scrum teams, including Designers, Product Owners, Developers, Business Analysts, and Researchers, to ensure seamless integration of service design into the product development lifecycle. 
 
