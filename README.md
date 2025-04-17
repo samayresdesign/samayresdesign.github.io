@@ -1,3 +1,71 @@
+### Sam Ayres ###
+Senior Product Designer
+www.samayres.uk | mr.samayres@gmail.com | +44 (0)7468 452865 | LinkedIn
+
+### ✨ Profile ###
+
+I am a Senior Product Designer with over 15 years of experience in UX, service design, and digital transformation. I specialise in creating accessible, user-centred services that align with both organisational goals and user needs. I bring deep experience working across public and private sectors, with a particular focus on GOV.UK standards, end-to-end product delivery, and design system implementation.
+
+### 📊 Core Skills ###
+
+User-Centred Design: Service design, journey mapping, prototyping, usability testing
+Agile Delivery: Scrum, Kanban, cross-functional team collaboration
+Accessibility: WCAG 2.1 AA, Public Sector Accessibility Regulations (UK), inclusive design
+Design Systems: Figma libraries, scalable UI design, GDS Design System
+UX Research: Qual + quant methods, research ops, insight synthesis
+Stakeholder Engagement: Workshop facilitation, co-creation, storytelling for impact
+
+### 🛠️ Tools & Software ###
+
+Figma, Miro, Dovetail, Optimal Workshop, UserZoom, Medallia (Decibel), InVision, Sketch, Adobe XD, ServiceNow
+
+### 📖 Certifications & Memberships ###
+
+Google UX Design Certificate
+Google AI Essentials
+UX Diploma, UX Design Institute
+Member, Marketing Research Society
+Member, Service Design Network
+
+### 💼 Work Experience ###
+
+Cyber-Duck / CACISenior Product DesignerNov 2023 – Present
+Supporting discovery and delivery for Worcester Bosch, Dexcom, and ScotlandsPeople. Leading UI and user research, and helping establish design systems.
+
+Virgin AtlanticSenior / Lead Product DesignerMay 2022 – May 2023
+Redesigned homepage and managed booking flow post-COVID. Conducted user research and implemented a new booking experience aligned with evolving travel needs.
+
+British AirwaysSenior / Lead Product DesignerSep 2021 – Mar 2022
+Developed and launched BA’s COVID documentation app. Designed MVP in India and scaled globally.
+
+Vodafone Lead UX Designer 2018 – 2021
+Led a 3-year eCare redesign and service portal project. Won Best Digital Transformation at CXA 2022.
+
+Reactive & CedarLead UX & Creative Director 2014 – 2017
+Clients: Tesco Real Food, Tesco Living, British Airways. Led studio operations, developed wireframes and prototypes, and managed cross-functional teams.
+
+Applied_ (Eden Speikermann) UX & Interaction Designer 2013
+Designed digital strategy and interaction model for Heathrow Airport’s interactive mapping system.
+
+Other Freelance and Early Roles: Yahoo!, SAS, Hugo & Cat, National Archive, Sky, Tangerine
+
+### 🎓 Education ###
+
+MFA Fine Art Wimbledon College of Art UAL, 2014 – 2016 (Distinction)
+BA (Hons) Graphic Design & CommunicationCentral St. Martins College of Art & Design UAL, 1992 – 1995
+Foundation, Cheltenham and Gloucester College of Art & Design, 1991
+
+### 🔗 Portfolio & Case Studies ###
+Full case studies available at www.samayres.uk covering:
+
+Virgin Atlantic – Booking process + homepage redesign
+British Airways – Digital COVID documentation system
+Vodafone – eCare platform and mobile app transformation
+Tesco Real Food – Data-led recipe platform innovation
+Heathrow Airport – Passenger journey mapping and UX strategy
+
+Available for freelance, contract, or permanent roles. Let’s build meaningful digital experiences together.
+
 ### Sam Ayres
 Senior Product Designer
 
