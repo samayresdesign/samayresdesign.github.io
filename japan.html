@@ -754,21 +754,56 @@
 <script>
     const STORE_KEY = 'japan2026';
 
-    function load() {
-        const saved = JSON.parse(localStorage.getItem(STORE_KEY) || '{}');
+    // ── Shared sync via JSONBin.io (free) ──────────────────────────
+    // 1. Go to https://jsonbin.io and create a free account
+    // 2. Create a new Bin with content: {}
+    // 3. Copy your Bin ID and Master Key and paste below
+    // Both you and Matilda need to open the same copy of this file.
+    const BIN_ID  = '69a4c41543b1c97be9aa471b';
+    const API_KEY = '$2a$10$IwQt28J2tGDoUQtN8yYeoe.jJnfd50aFX0RSm8zBhQiWNt29uwgDm';
+    // ──────────────────────────────────────────────────────────────
+
+    const HEADERS = {
+        'Content-Type': 'application/json',
+        'X-Master-Key': API_KEY,
+    };
+
+    async function load() {
+        if (!BIN_ID) {
+            applyData(JSON.parse(localStorage.getItem(STORE_KEY) || '{}'));
+            return;
+        }
+        try {
+            const res  = await fetch(`https://api.jsonbin.io/v3/b/${BIN_ID}/latest`, { headers: HEADERS });
+            const json = await res.json();
+            applyData(json.record || {});
+        } catch {
+            applyData(JSON.parse(localStorage.getItem(STORE_KEY) || '{}'));
+        }
+    }
+
+    function applyData(saved) {
         document.querySelectorAll('[data-id]').forEach(el => {
-            if (saved[el.dataset.id] !== undefined) {
-                el.innerHTML = saved[el.dataset.id];
-            }
+            if (saved[el.dataset.id] !== undefined) el.innerHTML = saved[el.dataset.id];
         });
     }
 
-    function save() {
+    async function save() {
         const data = {};
         document.querySelectorAll('[data-id]').forEach(el => {
             data[el.dataset.id] = el.innerHTML;
         });
         localStorage.setItem(STORE_KEY, JSON.stringify(data));
+
+        if (BIN_ID) {
+            try {
+                await fetch(`https://api.jsonbin.io/v3/b/${BIN_ID}`, {
+                    method: 'PUT',
+                    headers: HEADERS,
+                    body: JSON.stringify(data),
+                });
+            } catch { /* saved locally at least */ }
+        }
         showToast();
     }
 
